@@ -2,7 +2,7 @@
 
 ### 🚀 Estagiário de TI na Stattus4 | Transição de Carreira & Automação
 
-Sou um profissional focado em eficiência operacional, unindo a precisão da minha formação em **Ciências Contábeis** com a agilidade do **Desenvolvimento de Sistemas**. Meu objetivo é transformar processos manuais em fluxos digitais inteligentes.
+Sou um profissional focado em eficiência operacional, unindo a precisão da minha formação em **Ciências Contábeis** com a agilidade do **Desenvolvimento de Sistemas**.
 
 ---
 
