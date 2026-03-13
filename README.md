@@ -15,5 +15,5 @@ Desenvolvedor focado em automação de processos e eficiência operacional. Unin
 ---
 
 ### 📫 Contato
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/guilherme-rodrigues-gr/)
+* **LinkedIn:** [https://www.linkedin.com/in/guilherme-rodrigues-gr/](https://www.linkedin.com/in/guilherme-rodrigues-gr/)
 * **E-mail:** guilherme.santos@stattus4.com
