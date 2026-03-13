@@ -15,5 +15,5 @@ Desenvolvedor em formação, unindo a precisão da **Contabilidade** (Graduado e
 ---
 
 ### 📫 Contato
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
+* **LinkedIn:** [https://www.linkedin.com/in/guilherme-rodrigues-gr/](https://www.linkedin.com/in/guilherme-rodrigues-gr/)
 * **E-mail:** guilherme.santos@stattus4.com
