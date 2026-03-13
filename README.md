@@ -1,19 +1,19 @@
-# Guilherme Rodrigues | TI @ Stattus4
+# Guilherme Rodrigues | Estagiário de TI @ Stattus4
 
-Desenvolvedor focado em automação de processos e eficiência operacional. Unindo a lógica de **Ciências Contábeis** (formado em 2024) com o desenvolvimento de sistemas (**ADS**).
+Desenvolvedor em formação, unindo a precisão da **Contabilidade** (Graduado em 2024) com a agilidade da tecnologia. Atualmente cursando **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
 ### 🛠️ Projetos Atuais
-* **Automação de BM:** Desenvolvimento de solução em Google Apps Script para consumo de APIs, processamento de dados em Sheets e geração automática de PDFs de Boletim de Medição.
+* **Automação de Boletim de Medição (BM):** Criação de scripts em **Google Apps Script** para otimizar a extração de dados e geração automatizada de relatórios em PDF.
 
-### 💻 Stack Técnica
-* **Linguagens:** JavaScript, Google Apps Script, SQL.
-* **Ferramentas:** Git, GitHub, Integração de APIs.
-* **Conhecimentos Complementares:** Python, C#.
+### 💻 Stack & Aprendizado
+* **Foco Atual:** JavaScript e Google Apps Script.
+* **Base Técnica:** SQL, Git/GitHub e lógica de programação.
+* **No Radar:** Python e C# (projetos acadêmicos e estudos paralelos).
 
 ---
 
 ### 📫 Contato
-* **LinkedIn:** [https://www.linkedin.com/in/guilherme-rodrigues-gr/](https://www.linkedin.com/in/guilherme-rodrigues-gr/)
+* **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
 * **E-mail:** guilherme.santos@stattus4.com
